@@ -7,5 +7,7 @@ To view the file, click **"View raw"** to download and open it in Microsoft Word
 - Description of five major programming paradigms
 - Examples of languages using each paradigm
 - Neatly formatted for academic submission
+
 Submitted by: Samuel
+
 Date: 09/04/2025
